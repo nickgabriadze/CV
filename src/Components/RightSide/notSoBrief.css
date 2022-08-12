@@ -1,0 +1,36 @@
+.notSoBrief-container {
+    color: white;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+    gap: 10px;
+}
+
+#profile,
+#experience,
+#education {
+    padding-left: 20px;
+    font-size: 20px;
+    color: #FEE715FF;
+}
+
+.icon {
+    padding-right: 10px;
+}
+
+#notSoBrief-hr {
+    width: 90%;
+    height: 2px;
+    background-color: aliceblue;
+    border-radius: 7px 7px 7px 7px;
+    margin-top: -5px;
+}
+
+.paddingRight-year {
+    padding-right: 6px;
+}
+
+.paddingRight-university {
+    padding-right: 5px;
+}

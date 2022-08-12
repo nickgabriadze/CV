@@ -1,0 +1,76 @@
+.brief-container {
+    background-color: #101820FF;
+    width: 350px;
+    height: 100%;
+
+}
+
+.continer-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#brief-hr {
+    width: 80%;
+    height: 2px;
+    background-color: white;
+    margin-top: -5px;
+    border: 1px solid white;
+    border-radius: 7px 7px 7px 7px;
+}
+
+#identity {
+    padding-top: 5px;
+    text-align: center;
+    color: #FEE715FF;
+    display: flex;
+    font-size: 25px;
+    flex-direction: column;
+    font-family: 'Poppins', 'Courier New', 'Courier', 'monospace';
+}
+
+#lastName {
+    margin-top: -20px;
+}
+
+#contact-info {
+    padding-top: 20px;
+    width: 100%;
+    color: #FEE715FF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+.details {
+    font-size: 18px;
+}
+
+#link-to-linkedin,
+#link-to-github {
+    color: #FEE715FF !important;
+    text-decoration: none;
+    padding-left: 2px;
+}
+
+#linkedIn {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 0px;
+}
+
+#skills-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    padding-right: 15px;
+    margin-top: 30px;
+    color: #FEE715FF;
+    flex-direction: column;
+}

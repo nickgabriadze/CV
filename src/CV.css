@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@800&family=Poppins&family=Roboto&family=Ubuntu&display=swap');
+
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    background-color: #101820FF;
+    font-family: 'Poppins', 'Courier', 'monospace';
+}
+
+
+
+.container {
+    display: flex;
+    background-color: #101820FF;
+}
+
+
+#line {
+    margin-top: 8px;
+    width: 2px;
+    background-color: aliceblue;
+    border-radius: 2px;
+}
