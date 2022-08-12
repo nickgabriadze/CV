@@ -3,7 +3,7 @@
 #### The Main thing to change in this project to be able to make it fit you is to change variables in 'CV.js' file and that's it. ####
 
 
-1. const about, 
+1. const about
 2. const experience 
 3. firstName='Name'
 4. lastName='Surname'
@@ -23,4 +23,11 @@
 
 
 
-#### After you are done with changing those details, you can then run the project with 'npm start' command and when you see the website show up at your localhost then you can press "CTRL + P" and print it as A4 sized page. Other properties that you may have to set are: 'Layout: Portrait', 'Paper Size: 'A4', 'Pages per sheet: 1', 'Margins': 'None', 'Scale:Default', 'Options:'Check Background Graphics' and the last one, remove footers if it's an option. ####
+#### After you are done with changing those details, you can then run the project with 'npm start' command and when you see the website show up at your localhost then you can press "CTRL + P" and print it as A4 sized page. Other properties that you may have to set are: 
+1. 'Layout: Portrait'
+2. 'Paper Size: 'A4'
+3. 'Pages per sheet: 1' 
+4. 'Margins': 'None'
+5. 'Scale:Default'
+6. 'Options:'Check Background Graphics
+7. remove footers if it's an option. ####
