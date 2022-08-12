@@ -2,6 +2,7 @@
 
 #### The Main thing to change in this project to be able to make it fit you is to change variables in 'CV.js' file and that's it.
 
+code(
 1.const about, 
 2.const experience 
 3.firstName='Name'
@@ -19,6 +20,7 @@
 15.databaseDots={5}
 16.verilogDots={5}
 17.typingDots={5}
+)
 
 
 
