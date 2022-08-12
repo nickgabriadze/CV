@@ -1,8 +1,8 @@
-# Getting Started with CV
+# Getting Started with CV #
 
-#### The Main thing to change in this project to be able to make it fit you is to change variables in 'CV.js' file and that's it.
+#### The Main thing to change in this project to be able to make it fit you is to change variables in 'CV.js' file and that's it. ####
 
-code(
+
 1.const about, 
 2.const experience 
 3.firstName='Name'
@@ -20,8 +20,7 @@ code(
 15.databaseDots={5}
 16.verilogDots={5}
 17.typingDots={5}
-)
 
 
 
-#### After you are done with changing those details, you can then run the project with 'npm start' command and when you see the website show up at your localhost then you can press "CTRL + P" and print it as A4 sized page. Other properties that you may have to set are: 'Layout: Portrait', 'Paper Size: 'A4', 'Pages per sheet: 1', 'Margins': 'None', 'Scale:Default', 'Options:'Check Background Graphics' and the last one, remove footers if it's an option.
+#### After you are done with changing those details, you can then run the project with 'npm start' command and when you see the website show up at your localhost then you can press "CTRL + P" and print it as A4 sized page. Other properties that you may have to set are: 'Layout: Portrait', 'Paper Size: 'A4', 'Pages per sheet: 1', 'Margins': 'None', 'Scale:Default', 'Options:'Check Background Graphics' and the last one, remove footers if it's an option. ####
