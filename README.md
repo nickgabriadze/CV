@@ -30,4 +30,4 @@
 4. 'Margins': 'None'
 5. 'Scale:Default'
 6. 'Options:'Check Background Graphics
-7. remove footers if it's an option. ####
+7. remove footers if it's an option.
