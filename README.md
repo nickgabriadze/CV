@@ -3,22 +3,22 @@
 #### The Main thing to change in this project to be able to make it fit you is to change variables in 'CV.js' file and that's it.
 
 1.const about, 
-1.const experience 
-1.firstName='Name'
-1.lastName='Surname'
-1.location={'City, State, Country'}
-1.phoneNumber={'Phone Number'}
-1.email={'email@example.com'}
-1.linkedInLink={'https://www.linkedin.com/in'}
-1.linkedInUsername={'LinkedInUsername'}
-1.gitHubLink={'https://github.com/'}
-1.gitHubUsername={'GitHubUsername'}
-1.reactDots={5}
-1.pythonDots={5}
-1.javaDots={5}
-1.databaseDots={5}
-1.verilogDots={5}
-1.typingDots={5}
+2.const experience 
+3.firstName='Name'
+4.lastName='Surname'
+5.location={'City, State, Country'}
+6.phoneNumber={'Phone Number'}
+7.email={'email@example.com'}
+8.linkedInLink={'https://www.linkedin.com/in'}
+9.linkedInUsername={'LinkedInUsername'}
+10.gitHubLink={'https://github.com/'}
+11.gitHubUsername={'GitHubUsername'}
+12.reactDots={5}
+13.pythonDots={5}
+14.javaDots={5}
+15.databaseDots={5}
+16.verilogDots={5}
+17.typingDots={5}
 
 
 
